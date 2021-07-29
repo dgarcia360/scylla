@@ -10,8 +10,7 @@ seeking an exception.
 
 ## Code style
 
-Code should conform to the project's coding style, see
-[coding-style.md](./coding-style.md).
+Code should conform to the project's coding style, see coding-style.md.
 
 ## Naming
 

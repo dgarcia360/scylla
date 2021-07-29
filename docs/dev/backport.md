@@ -10,14 +10,14 @@ none) by including Branches: w.x, y.z or Branches: none
 2. Maintainers will insist on rule 1
 
 3. After a patch with a Fixes #nnnn line gets promoted, a bot wakes up
-and assignes the label [Backport candidate] to that issue iff:
+and assignes the label ``[Backport candidate]`` to that issue iff:
 - no Branches: was added
 - Branches: w.x was added 
-In case the "Branches: none" was specified the label [Backport
-candidate] is not set
+In case the "Branches: none" was specified the label ``[Backport
+candidate]`` is not set
 
 4. Once a week or so a maintainer wakes up and filters the issue list of
-open [Backport candidate]s.
+open ``[Backport candidate]``s.
 
 5. The maintainer may take the following actions:
 

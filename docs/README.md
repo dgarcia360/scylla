@@ -1,15 +1,9 @@
-# Scylla Developer Documentation
+# Scylla Open-Source
 
-This documentation targets developers who are interested in contributing to Scylla codebase.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean scelerisque purus nec sodales vehicula. Suspendisse potenti. Phasellus non libero eu ipsum ultricies congue. Sed faucibus leo a urna tempus, at sollicitudin urna condimentum. Vivamus hendrerit dolor venenatis mi accumsan congue. Suspendisse vel lectus nec est tristique porta. Nullam in scelerisque neque. Etiam ultrices leo tellus, a vestibulum est laoreet vitae. Nam tortor felis, tempus tincidunt cursus sit amet, congue et nisl. Duis egestas hendrerit dolor pretium ullamcorper.
 
 ## Contents
 
 * [Alternator](alternator/alternator.md) - The open source DynamoDB-compatible API reference.
-* [Design notes](design-notes/index.md) - Explanations describing how new features work for other contributors and exploratory research.
-* [Guides](guides/index.md) - Instructions on how to build, run, test and debug the Scylla codebase.
-* [Contribute](contribute/index.md) - Guidelines on how to contribute and maintain the project.
+* [Developer notes](dev/README.md) - This documentation targets developers contributing to Scylla codebase.
 
-## Other Useful Documents and Links
-
-* [User documentation](https://docs.scylladb.com/)
-* [Seastar documentation](http://docs.seastar.io/master/index.html)

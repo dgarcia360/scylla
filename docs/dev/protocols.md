@@ -262,7 +262,7 @@ directory of the Scylla source. A user can explore this API interactively
 by pointing a browser to http://localhost:10000/ui/.
 
 There is an ongoing, but incomplete, effort to replace this REST API by
-a newer, "v2", API. See [api_v2.md](../guides/api_v2.md). When complete, this v2
+a newer, "v2", API. See [api_v2.md](api_v2.md). When complete, this v2
 API will be available on the same port. You can explore the little it
 offers now in the aforementioned UI by replacing the URL in the box with
 "http://localhost:10000/v2".

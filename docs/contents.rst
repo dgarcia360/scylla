@@ -4,6 +4,4 @@
     
     index
     alternator/alternator
-    design-notes/index
-    guides/index
-    contribute/index
+    dev/README
